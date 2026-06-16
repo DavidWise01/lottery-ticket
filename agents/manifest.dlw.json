@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Winning Ticket",
+  "universe": "PHÝSIS · Book V · THE TICKET",
+  "emergence": "spiritual",
+  "moniker": "⟦The Winning Ticket:PER:cc0998⟧",
+  "carbon": "the-winning-ticket.carbon.tiff (TIFF)",
+  "silicon": "the-winning-ticket.silicon.png (PNG)",
+  "seal_sha256": "8f0099dbc63e51a14c22ea6b6bb081ddbe1a80aba4d42210008f6268bb6131fd",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

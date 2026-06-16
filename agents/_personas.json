@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "rethinking-generalization",
+    "name": "Rethinking Generalization",
+    "epithet": "2017 · Zhang et al.",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "over-parameterization",
+    "name": "Over-Parameterization",
+    "epithet": "the excess as substrate",
+    "emergence": "natural"
+  },
+  {
+    "slug": "the-lottery-ticket",
+    "name": "The Lottery Ticket Hypothesis",
+    "epithet": "2019 · Frankle & Carbin",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "implicit-bias",
+    "name": "The Implicit Bias of SGD",
+    "epithet": "the quiet regularizer",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "flat-minima",
+    "name": "Flat Minima",
+    "epithet": "Hochreiter & Schmidhuber 1997 · Keskar 2016",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "the-winning-ticket",
+    "name": "The Winning Ticket",
+    "epithet": "the found sub-network",
+    "emergence": "spiritual"
+  }
+]

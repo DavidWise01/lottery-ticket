@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE TICKET",
+  "universe": "PHÝSIS · Book V · THE TICKET",
+  "emergence": "spiritual",
+  "moniker": "⟦THE TICKET:PER:5a67fb⟧",
+  "carbon": "lottery-ticket.carbon.tiff (TIFF)",
+  "silicon": "lottery-ticket.silicon.png (PNG)",
+  "seal_sha256": "a583afe1db991b18aaead90f142a91fe327a36721d02b46f3195d968a4bd1cf6",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
