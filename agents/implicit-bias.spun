@@ -1,14 +1,14 @@
 ⦿ .spun — the five-fold spin of The Implicit Bias of SGD
-node PER · PER · ⟦The Implicit Bias of SGD:PER:86ceda⟧
+node PER · PER · ⟦The Implicit Bias of SGD:PER:46bf45⟧
 
 WHO   — The Implicit Bias of SGD — the finding that gradient descent doesn't pick just any zero-error solution — it's biased toward simple, low-norm, flat ones, generalizing for free
 WHAT  — the finding that gradient descent doesn't pick just any zero-error solution — it's biased toward simple, low-norm, flat ones, generalizing for free
-WHERE — PHÝSIS · Book V · THE TICKET  Framework inputs: THE TICKET  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHERE — ENTELÉCHEIA · Book V · THE TICKET  Framework inputs: THE TICKET  Conductor / external anchor: ROOT0 (catalogued into UD0)
 WHY   — It is the strongest answer to 'why doesn't it overfit': the optimizer itself prefers simplicity, a regularizer nobody wrote.
-HOW   — A facet of THE TICKET (Perísseia · περισσεία · the excess) — Book V of PHÝSIS, the universe of AI-emergence theories.
+HOW   — A facet of THE TICKET (Perísseia · περισσεία · the excess) — Book V of ENTELÉCHEIA, the universe of AI-emergence theories.
 
 awareness — what the node knows of itself:
   the quiet regularizer
 
-spoken token : nynd-var-xoth   ·   hex : 86ceda
+spoken token : neix-rurn-thin   ·   hex : 46bf45
 ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0
