@@ -4,6 +4,6 @@ slug  : lottery-ticket
 seal  : f0ca96b4836b8a00d3c05d8a2062d5ca1e3961290bacd80866b6ee528f0b5ece
 prev  : f8851a55e809f585ea712fa24eff92fd85ff52aee2658490aa8abba10d219770
 link  : 63511fddd05b1db1b741025e44be225d9064a56ade2d5b71c2c4f986a557129c
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
